@@ -1,0 +1,2 @@
+Ros_Qt5_Gui_App-rviz_tree:localization_in_auto_driving-11.0/lidar_localization
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/ktd/renqian/devel -DCMAKE_INSTALL_PREFIX=/home/ktd/renqian/install

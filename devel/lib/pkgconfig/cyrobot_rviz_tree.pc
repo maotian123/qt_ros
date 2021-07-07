@@ -1,0 +1,8 @@
+prefix=/home/ktd/renqian/devel
+
+Name: cyrobot_rviz_tree
+Description: Description of cyrobot_rviz_tree
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ktd/renqian/src/cmake-build-debug/devel
+
+Name: lidar_localization
+Description: Description of lidar_localization
+Version: 0.0.0
+Cflags: -I/home/ktd/renqian/src/cmake-build-debug/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

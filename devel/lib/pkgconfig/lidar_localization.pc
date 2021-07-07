@@ -1,0 +1,8 @@
+prefix=/home/ktd/renqian/devel
+
+Name: lidar_localization
+Description: Description of lidar_localization
+Version: 0.0.0
+Cflags: -I/home/ktd/renqian/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
